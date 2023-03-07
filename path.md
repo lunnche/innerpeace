@@ -13,6 +13,44 @@
 
 
 
+Mit computer science and engineering (course 6-3)
+
+![image-20230307144325306](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20230307144325306.png)
+
+
+
+![image-20230307144354639](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20230307144354639.png)
+
+
+
+![image-20230307144436759](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20230307144436759.png)
+
+![image-20230307144459962](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20230307144459962.png)
+
+
+
+![image-20230307144549605](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20230307144549605.png)
+
+![image-20230307144615968](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20230307144615968.png)
+
+
+
+![image-20230307144636006](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20230307144636006.png)
+
+
+
+![image-20230307144655385](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20230307144655385.png)
+
+![image-20230307144727641](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20230307144727641.png)
+
+![image-20230307144750586](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20230307144750586.png)
+
+
+
+![image-20230307144809336](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20230307144809336.png)
+
+
+
 第一阶段
 
 
@@ -24,4 +62,10 @@
 python   mit
 
 
+
+第一小阶段  线代和python
+
+线代 introduction to linear algebra fifth edition   Gilbert Strang
+
+python  introduction to computation and programming using python 3rd edition
 
